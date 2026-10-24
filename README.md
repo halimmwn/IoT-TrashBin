@@ -183,7 +183,7 @@ String CHAT_ID   = "YOUR_TELEGRAM_CHAT_ID";
 ```
 
 > [!CAUTION]
-> **Keamanan Kredensial:**  
+> **Catatan Penting!:**  
 > Jangan membagikan atau mengunggah Auth Token Blynk, Token Bot Telegram, atau password Wi-Fi Anda ke repositori publik (seperti GitHub publik).
 
 ---
